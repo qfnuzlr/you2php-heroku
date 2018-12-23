@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', getenv("APIKEY"));
+define('APIKEY', 'AIzaSyBPMhjcT-ZTsluPwwNTPpfKvOBEXd9fols');
 define('GJ_CODE', getenv("GJ_CODE"));
-define('SITE_NAME',getenv("SITE_NAME"));
-define('TITLENAME', getenv("TITLENAME"));
-define('EN2DEKEY',getenv("EN2DEKEY"));
+define('SITE_NAME','wfms');
+define('TITLENAME', 'wfms');
+define('EN2DEKEY','SDwfms.top123');
 define('EMAIL', getenv("EMAIL"));
 ?>
