@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyBPMhjcT-ZTsluPwwNTPpfKvOBEXd9fols');
+define('APIKEY', 'AIzaSyAmpzIQ0QQWpSBBf-GKkvtK2EWX9_zCGJg');
 define('GJ_CODE', getenv("GJ_CODE"));
 define('SITE_NAME','wfms');
 define('TITLENAME', 'wfms');
